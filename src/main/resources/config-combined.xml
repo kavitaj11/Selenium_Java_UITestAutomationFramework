@@ -1,0 +1,9 @@
+<configuration>
+    <override>
+        <properties fileName="application.properties"/>
+    </override>
+    <additional>
+        <xml fileName="additional-config.xml"/>
+    </additional>
+ </configuration>
+

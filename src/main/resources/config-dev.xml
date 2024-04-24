@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+
+    <!-- Database Connection Settings -->
+    <database>
+        <url>jdbc:mysql://localhost:3306/mydatabase</url>
+        <user>dbuser</user>
+        <password>dbpassword</password>
+        <driver>com.mysql.jdbc.Driver</driver>
+    </database>
+
+    <!-- Application Preferences -->
+    <appSettings>
+        <theme>dark</theme>
+        <notifications enabled="true"/>
+        <locale>en-US</locale>
+    </appSettings>
+
+</configuration>
